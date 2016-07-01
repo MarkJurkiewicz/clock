@@ -1,0 +1,14 @@
+body {
+    background-color: navy;
+}
+
+#clock {
+    position: fixed;
+    color: aliceblue;
+    font-family: "Bauhaus 93";
+    font-size: 80px;
+    top: 50%;
+    left: 50%;
+    margin-top: -50px;
+    margin-left: -190px;
+}
